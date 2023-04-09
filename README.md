@@ -98,4 +98,4 @@ CONTACT : <i>blackhate0102@gmail.com</i>  <br> <br>
 
 ##
 
-#### THANKS FOR USING MY REPOSITORY.
+### THANKS FOR USING MY [**REPOSITORY**](https://github.com/Abid0987?tab=repositories).
