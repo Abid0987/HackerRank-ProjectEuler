@@ -1,4 +1,13 @@
+<h1 align="center">
+<img src="https://github.com/Abid0987/HackraRank-ProjectEuler/blob/main/hackerrank.png" width="300">
 <h1 align="center">HackerRank-ProjectEuler</h1>
+</h1><br>
+
+
+
+
+
+
 
 <p align="center">
  
@@ -23,9 +32,15 @@
 
 ##
 
+<h3><p align="center"><b>Disclaimer</b></p></h3>
+
+### <i><b>DO NOT</b> copy and paste these solutions to solve the <b>ProjectEuler</b> challenges, as you will learn nothing by doing that. Although, I encourage you to look at my code if you get stuck and need some hints, or simply want to compare your solution with someone else.</i>
+
+
+
 # ***More Problem Solves Coming Soon...***
 
-##
+
 
 ### Installation
 
